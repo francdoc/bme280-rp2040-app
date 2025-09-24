@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.go": "go",
+        "port_rp2040.h": "c",
+        "bme280.h": "c",
+        "common.h": "c"
+    }
+}
