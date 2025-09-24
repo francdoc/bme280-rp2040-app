@@ -5,7 +5,7 @@
 #include "pico/binary_info.h"
 #include "hardware/spi.h"
 
-#include "common/common.h"
+#include "bme280/common/common.h"
 #include "port_rp2040.h"
 
 int main()

@@ -1,4 +1,4 @@
-#include "common/common.h"
+#include "bme280/common/common.h"
 
 #include "pico/stdlib.h"
 #include "pico/binary_info.h"
